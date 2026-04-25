@@ -19,5 +19,7 @@ This project investigates the relationship between environmental pollution level
 ![Figure 1. Scatterplot illustrating the positive correlation between the pollution index and enzyme abundance across samples. The red dashed line represents the linear regression trend, with the shaded region indicating the 95% confidence interval. This suggests higher prevalence of plastic-degrading enzymes in more polluted environments.<img width="468" height="68" alt="image" src="https://github.com/user-attachments/assets/7f7d0d4a-c6fc-4b4c-9c4e-8b6e3ad28328" />
 ](Correlation_btwn_Enzyme_ Adundance_and_Pollution.png)
 
+
+
 ## Results & Conclusions
 *(Write 2-3 sentences here explaining what your statistical analysis proved or disproved regarding the enzyme and pollution correlation.)*
