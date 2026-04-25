@@ -9,7 +9,7 @@ This project investigates the relationship between environmental pollution level
 * **Metagenomic Sequences:** Sourced from the Tara Oceans expedition and global topsoil studies via PANGEA, Atlas of the Biosphere, and WorldClim.
 
 ## Methodology & Tools
-* **Language:** R (dplyr, ggplot2, [list any other packages])
+* **Language:** R (dplyr, ggplot2, phyloseq, microbiome, vegan, survival, survminer, limma)
 * **Workflow:** 1. Data acquisition and cleaning of high-volume metagenomic sequences.
   2. Subsampling and normalization of enzyme and pollution datasets.
   3. Statistical correlation analysis between regional pollution concentrations and enzyme class prevalence.
