@@ -25,4 +25,11 @@ This project investigates the relationship between environmental pollution level
 
 
 ## Results & Conclusions
-*(Write 2-3 sentences here explaining what your statistical analysis proved or disproved regarding the enzyme and pollution correlation.)*
+Observations that were observed were: heatmaps revealed higher enzyme abundance in regions with elevated pollution levels and there were positive correlations were observed between pollution metrics and the abundance of specific enzyme classes, such as cutinases and esterases and certain regions showed unique enzyme profiles, suggesting localized adaptations.
+
+This study supports the hypothesis that specific plastic-degrading enzyme classes are more prevalent in polluted environments. The observed positive correlations align with microbial adaptation theories, indicating that enzymes such as cutinases are likely to play pivotal roles in plastic degradation.
+The results from the heatmap (Figure 1) clearly demonstrate that enzyme abundance varies significantly across regions and correlates with pollution levels. The scatterplot (Figure 2) further corroborates this trend by showing a linear relationship between enzyme prevalence and pollution metrics. These findings reinforce the adaptive potential of microbial enzymes in tackling plastic pollution.
+However, the study faced limitations, including data volume constraints and reliance on proxy pollution metrics. Future research should incorporate more precise pollution measures and larger datasets to validate these findings.
+The results underscore the potential of microbial enzymes in bioremediation strategies. Future work could explore in situ experiments to test enzyme efficacy in plastic degradation under controlled conditions. Expanding the scope to include additional enzyme classes and pollution types will provide a comprehensive understanding of microbial adaptation to plastic pollution.
+<img width="468" height="499" alt="image" src="https://github.com/user-attachments/assets/66afaf02-c026-40c2-b04d-13e7b0e7744e" />
+
