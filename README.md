@@ -19,6 +19,9 @@ This project investigates the relationship between environmental pollution level
 ![Figure 1. Scatterplot illustrating the positive correlation between the pollution index and enzyme abundance across samples. The red dashed line represents the linear regression trend, with the shaded region indicating the 95% confidence interval. This suggests higher prevalence of plastic-degrading enzymes in more polluted environments.<img width="468" height="68" alt="image" src="https://github.com/user-attachments/assets/7f7d0d4a-c6fc-4b4c-9c4e-8b6e3ad28328" />
 ](Correlation_btwn_Enzyme_ Adundance_and_Pollution.png)
 
+![Figure 2.  Heatmap showing enzyme abundance across five regions with varying pollution levels. The color intensity represents enzyme abundance, with darker shades indicating higher levels. Regions with higher pollution indices generally exhibit increased abundance of certain enzyme classes, such as Enzyme_C, highlighting potential microbial adaptation to polluted environments.<img width="468" height="79" alt="image" src="https://github.com/user-attachments/assets/cbad9d22-e5fe-4f49-8b31-1bbf95e8876d" />
+](enzyme_abudance_across_regions_w_pollution_levels.png)
+
 
 
 ## Results & Conclusions
